@@ -5,25 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="63da10ce-5ea6-483e-99fb-87f937127822" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/CTF.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CTF题目/simple Cryptp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CTF题目/simpleCRYPTO2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CTF题目/附件.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Crypto/01_rot13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Crypto/02_摩斯密码.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Crypto/03_自定义hash.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Crypto/04_凯撒密码.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Crypto/05Quoted-Printable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Crypto/06不明所以.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Crypto/07_Rabbit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Crypto/手写编码/base64.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/强基计划/设计模式/生产者消费者模式.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Crypto/编码/压缩编码/压缩编码大纲.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/CTF.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CTF.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Crypto/手写编码/base64.py" beforeDir="false" afterPath="$PROJECT_DIR$/Crypto/手写编码算法/网络传输类/base64.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Crypto/编码/知识点.md" beforeDir="false" afterPath="$PROJECT_DIR$/Crypto/编码/知识点.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,36 +27,30 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Crypto/编码/压缩编码/压缩编码大纲.md" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2pVRdqiXwZ0Y86p7Sid6S7mQcgE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.04_凯撒密码 (1).executor": "Run",
-    "Python.05Quoted-Printable.executor": "Run",
-    "Python.06不明所以.executor": "Run",
-    "Python.07_Rabbit.executor": "Run",
-    "Python.base64.executor": "Run",
-    "Python.rot13.executor": "Run",
-    "Python.simple Cryptp.executor": "Run",
-    "Python.凯撒密码 (1).executor": "Run",
-    "Python.凯撒密码.executor": "Run",
-    "Python.摩斯密码.executor": "Run",
-    "Python.自定义hash.executor": "Run",
-    "Python.附件 (1).executor": "Run",
-    "Python.附件.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
-  }
-}]]></component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gensis\PycharmProjects\CTFer_Road\Crypto\手写编码算法\网络传输类" />
+      <recent name="C:\Users\gensis\PycharmProjects\CTFer_Road\Crypto\编码\压缩编码" />
       <recent name="C:\Users\Administrator\PycharmProjects\CTF\CTF题目" />
       <recent name="C:\Users\Administrator\PycharmProjects\CTF\Crypto" />
     </key>
@@ -77,7 +58,6 @@
   <component name="RunManager" selected="Python.simple Cryptp">
     <configuration name="附件 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CTF" />
-      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -99,7 +79,6 @@
     </configuration>
     <configuration name="附件" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CTF" />
-      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -121,7 +100,6 @@
     </configuration>
     <configuration name="04_凯撒密码" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CTF" />
-      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -143,7 +121,6 @@
     </configuration>
     <configuration name="05Quoted-Printable" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CTF" />
-      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -165,7 +142,6 @@
     </configuration>
     <configuration name="base64" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CTF" />
-      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -187,7 +163,6 @@
     </configuration>
     <configuration name="simple Cryptp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CTF" />
-      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -240,7 +215,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
