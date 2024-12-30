@@ -5,12 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="63da10ce-5ea6-483e-99fb-87f937127822" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/Crypto/编码/压缩编码/压缩编码大纲.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/CTF.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CTF.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reverse/ELF文件逆向/基本知识.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reverse/PE文件逆向/MOV指令的复杂性.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reverse/PE文件逆向/基础知识.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reverse/指令架构.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/强基计划/优化/pysnooper_click_able_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/强基计划/设计模式/猴子补丁/monkey_patch_pattern/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/强基计划/设计模式/猴子补丁/monkey_patch_pattern/a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/强基计划/设计模式/猴子补丁/monkey_patch_pattern/b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/强基计划/设计模式/猴子补丁/monkey_patch_pattern/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/强基计划/设计模式/猴子补丁/monkey_patch_pattern/真实的适用猴子补丁例子/monkey_color_log.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/强基计划/设计模式/猴子补丁/monkey_patch_pattern/真实的适用猴子补丁例子/monkey_json.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Crypto/手写编码/base64.py" beforeDir="false" afterPath="$PROJECT_DIR$/Crypto/手写编码算法/网络传输类/base64.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Crypto/编码/知识点.md" beforeDir="false" afterPath="$PROJECT_DIR$/Crypto/编码/知识点.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/强基计划/流量识别/基础调试和配置/端口.md" beforeDir="false" afterPath="$PROJECT_DIR$/强基计划/流量识别/基础调试和配置/端口.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,17 +44,21 @@
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2pVRdqiXwZ0Y86p7Sid6S7mQcgE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/PycharmProjects/CTF&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\gensis\PycharmProjects\CTFer_Road\Crypto\手写编码算法\网络传输类" />
@@ -58,6 +70,7 @@
   <component name="RunManager" selected="Python.simple Cryptp">
     <configuration name="附件 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CTF" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -79,6 +92,7 @@
     </configuration>
     <configuration name="附件" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CTF" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -100,6 +114,7 @@
     </configuration>
     <configuration name="04_凯撒密码" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CTF" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -121,6 +136,7 @@
     </configuration>
     <configuration name="05Quoted-Printable" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CTF" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -142,6 +158,7 @@
     </configuration>
     <configuration name="base64" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CTF" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -163,6 +180,7 @@
     </configuration>
     <configuration name="simple Cryptp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CTF" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
