@@ -5,20 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="63da10ce-5ea6-483e-99fb-87f937127822" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reverse/ELF文件逆向/基本知识.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reverse/PE文件逆向/MOV指令的复杂性.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reverse/PE文件逆向/基础知识.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reverse/指令架构.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/强基计划/优化/pysnooper_click_able_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/强基计划/设计模式/猴子补丁/monkey_patch_pattern/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/强基计划/设计模式/猴子补丁/monkey_patch_pattern/a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/强基计划/设计模式/猴子补丁/monkey_patch_pattern/b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/强基计划/设计模式/猴子补丁/monkey_patch_pattern/run.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/强基计划/设计模式/猴子补丁/monkey_patch_pattern/真实的适用猴子补丁例子/monkey_color_log.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/强基计划/设计模式/猴子补丁/monkey_patch_pattern/真实的适用猴子补丁例子/monkey_json.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AI/deep_seek_v3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reverse/hook技术/基本分类.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/强基计划/流量识别/基础调试和配置/端口.md" beforeDir="false" afterPath="$PROJECT_DIR$/强基计划/流量识别/基础调试和配置/端口.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,12 +42,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/PycharmProjects/CTF&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.deep_seek_v3.executor": "Run",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/PycharmProjects/dxDx"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\gensis\PycharmProjects\CTFer_Road\Crypto\手写编码算法\网络传输类" />
@@ -67,7 +57,7 @@
       <recent name="C:\Users\Administrator\PycharmProjects\CTF\Crypto" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.simple Cryptp">
+  <component name="RunManager" selected="Python.deep_seek_v3">
     <configuration name="附件 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CTF" />
       <option name="ENV_FILES" value="" />
@@ -99,33 +89,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12 (geetest_track-master)" />
       <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Administrator\PycharmProjects\CTF\CTF题目\附件.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="04_凯撒密码" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CTF" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Crypto" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Administrator\PycharmProjects\CTF\Crypto\04_凯撒密码.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/CTF/CTF题目/附件.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,7 +125,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="base64" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="deep_seek_v3" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="CTF" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -165,11 +134,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Crypto/手写编码" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_NAME" value="Python 3.12 (wxchat)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AI" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Crypto/手写编码/base64.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AI/deep_seek_v3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -200,13 +170,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.deep_seek_v3" />
+      <item itemvalue="Python.附件 (1)" />
+      <item itemvalue="Python.05Quoted-Printable" />
+      <item itemvalue="Python.附件" />
+      <item itemvalue="Python.simple Cryptp" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.deep_seek_v3" />
         <item itemvalue="Python.simple Cryptp" />
         <item itemvalue="Python.05Quoted-Printable" />
         <item itemvalue="Python.附件 (1)" />
         <item itemvalue="Python.附件" />
-        <item itemvalue="Python.base64" />
       </list>
     </recent_temporary>
   </component>
